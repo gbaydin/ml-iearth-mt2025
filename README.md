@@ -1,9 +1,9 @@
 # Machine Learning
-**AIMS CDT - Michaelmas Term 2024, Week 4**
+**Intelligent Earth CDT - Michaelmas Term 2024, Week 5**
 
-This repository contains material related to the practical sessions and assessment of the Machine Learning module within the [Autonomous Intelligent Machines and Systems (AIMS)](https://aims.robots.ox.ac.uk/) CDT taught course at the University of Oxford.
+This repository contains material related to the practical sessions and assessment of the Machine Learning module within the [UKRI AI Centre for Doctoral Training in AI for the Environment (Intelligent Earth)]([https://aims.robots.ox.ac.uk/](https://intelligent-earth.ox.ac.uk/home)) taught course at the University of Oxford.
 
-For more information please visit the [course web page](http://www.robots.ox.ac.uk/~gunes/teaching/ml-aims-mt2023.html).
+For more information please visit the [course web page](https://gbaydin.github.io/teaching/ml-iearth-mt2024.html).
 
 ## Practical sessions
 
@@ -24,8 +24,8 @@ In order to follow the practicals you need to have the following installed.
 Alternatively you can use a [Google Colab](https://colab.research.google.com/) notebook, within which PyTorch and the other dependencies are available by default and you can install Pyro by running `!pip install pyro-ppl` in a regular code cell. Colab notebooks run the code in the cloud and do not require any installation in your local machine.
 
 #### Demonstrators
-The demonstrators for the practicals are [Vít Růžička](https://previtus.github.io/) and [Zeynep Duygu Tekler](https://eng.ox.ac.uk/people/zeynep-duygu-tekler/).
+The demonstrators for the practicals are [Fatme Ramadan](https://www.earth.ox.ac.uk/people/fatme-ramadan) and [Zeynep Duygu Tekler](https://eng.ox.ac.uk/people/zeynep-duygu-tekler/).
 
 ## Assessed assignment
 
-The course is assessed by a take-home assignment that needs to be submitted. See the assessed assignment directory for the instructions. **Deadline: 11 November 2024**
+The course is assessed by a take-home assignment that needs to be submitted. See the assessed assignment directory for the instructions. **Deadline: 18 November 2024**
