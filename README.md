@@ -24,7 +24,7 @@ In order to follow the practicals you need to have the following installed.
 Alternatively you can use a [Google Colab](https://colab.research.google.com/) notebook, within which PyTorch and the other dependencies are available by default and you can install Pyro by running `!pip install pyro-ppl` in a regular code cell. Colab notebooks run the code in the cloud and do not require any installation in your local machine.
 
 #### Demonstrators
-The demonstrators for the practicals are [Fatme Ramadan](https://www.earth.ox.ac.uk/people/fatme-ramadan) and [Zeynep Duygu Tekler](https://eng.ox.ac.uk/people/zeynep-duygu-tekler/).
+The demonstrators for the practicals are [Sixtine Dromigny](https://www.environmental-research.ox.ac.uk/people/sixtine-dromigny) and [Zeynep Duygu Tekler](https://eng.ox.ac.uk/people/zeynep-duygu-tekler/).
 
 ## Assessed assignment
 
