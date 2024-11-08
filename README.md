@@ -23,11 +23,11 @@ In order to follow the practicals you need to have the following installed.
 - [Jupyter](https://jupyter.org/), [SciPy](https://www.scipy.org/), [Numpy](https://numpy.org/), [Matplotlib](https://matplotlib.org/) -- These are standard modules included in Anaconda by default.
 - [PyTorch](https://pytorch.org/) and [Pyro](http://pyro.ai/) -- These can be installed by following instructions in their websites.
 
-Alternatively you can use a [Google Colab](https://colab.research.google.com/) notebook, within which PyTorch and the other dependencies are available by default and you can install Pyro by running `!pip install pyro-ppl` in a regular code cell. Colab notebooks run the code in the cloud and do not require any installation in your local machine.
+Alternatively you can use a [Google Colab](https://colab.research.google.com/) notebook, within which PyTorch and the other dependencies are available by default and you can install any dependencies needed by running `!pip install package-name` in a regular code cell. Colab notebooks run the code in the cloud and do not require any installation in your local machine.
 
 #### Demonstrators
 The demonstrators for the practicals are [Sixtine Dromigny](https://www.environmental-research.ox.ac.uk/people/sixtine-dromigny) and [Zeynep Duygu Tekler](https://eng.ox.ac.uk/people/zeynep-duygu-tekler/).
 
 ## Assessed assignment
 
-The course is assessed by a take-home assignment that needs to be submitted. See the assessed assignment directory for the instructions. **Deadline: 18 November 2024**
+The course is assessed by a take-home assignment that needs to be submitted. See the assessed assignment directory for the instructions. **Deadline: 22 November 2024**
