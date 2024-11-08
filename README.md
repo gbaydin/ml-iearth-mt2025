@@ -9,10 +9,12 @@ For more information please visit the [course web page](https://gbaydin.github.i
 
 These are hands-on tutorial sessions that are grouped into four parts reflecting the structure of the module covering eight lectures over four days. See under each practical directory for more information.
 
-- L1-L2: linear regression
-- L3-L4: differentiable programming
-- L5-L6: image classification
-- L7-L8: probabilistic programming
+- Day 1: Linear regression
+- Day 2: Classification
+- Day 3: Building a neural network
+- Day 4: Building a neural network with PyTorch
+
+There are also two extra (optional) practicals called "Extra 1" and "Extra 2" for people who are interested in gaining more experience by solving these on their own.
 
 #### Setup
 In order to follow the practicals you need to have the following installed.
