@@ -1,4 +1,4 @@
-## Practical L5-L6
+## Practical, Day 2
 
 #### Part 1
 
