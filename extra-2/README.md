@@ -1,4 +1,4 @@
-## Practical L7-L8
+## Practical, extra 2
 
 This practical covers the basics of probabilistic modeling and inference in a universal probabilistic programming system, following and extending the introductory Pyro tutorials on [modeling](http://pyro.ai/examples/intro_part_i.html) and [inference](http://pyro.ai/examples/intro_part_ii.html).
 
