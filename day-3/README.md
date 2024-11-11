@@ -4,6 +4,8 @@ Practical designed by [Qurat ul ain](https://www.linkedin.com/in/qurat-ul-ain95)
 
 In this session, you will build a deep neural network, with as many layers as you want! You will implement all the functions required to build a deep neural network from scratch (without using Pytorch).
 
+The Colab link to this practical can be found here: https://drive.google.com/drive/folders/1GpAHBe8TpuyZlaN5P7e18Jn5VUyE_won?usp=sharing
+
 **After this practical you will be able to:**
 - Use non-linear units like ReLU to improve your model
 - Build a deeper neural network (with more than 1 hidden layer)
