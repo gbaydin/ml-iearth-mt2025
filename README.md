@@ -30,4 +30,4 @@ The demonstrators for the practicals are [Sixtine Dromigny](https://www.environm
 
 ## Optional assessed assignment
 
-There is an optional take-home assignment that that the students can complete to gain more experience. See the assessed assignment directory for the instructions. This is not a part of the course evaluation.
+There is an optional take-home assignment that that the students can complete to gain more experience. See the optional assignment directory for the instructions. This is not a part of the course evaluation.
