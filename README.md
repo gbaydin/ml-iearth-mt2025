@@ -1,9 +1,9 @@
 # Machine Learning
-**Intelligent Earth CDT - Michaelmas Term 2024, Week 5**
+**Intelligent Earth CDT - Michaelmas Term 2025, Week 4**
 
 This repository contains material related to the practical sessions and assessment of the Machine Learning module within the [UKRI AI Centre for Doctoral Training in AI for the Environment (Intelligent Earth)]([https://aims.robots.ox.ac.uk/](https://intelligent-earth.ox.ac.uk/home)) taught course at the University of Oxford.
 
-For more information please visit the [course web page](https://gbaydin.github.io/teaching/ml-iearth-mt2024.html).
+For more information please visit the [course web page](https://gbaydin.github.io/teaching/ml-iearth-mt2025.html).
 
 ## Practical sessions
 
@@ -26,8 +26,8 @@ In order to follow the practicals you need to have the following installed.
 Alternatively you can use a [Google Colab](https://colab.research.google.com/) notebook, within which PyTorch and the other dependencies are available by default and you can install any dependencies needed by running `!pip install package-name` in a regular code cell. Colab notebooks run the code in the cloud and do not require any installation in your local machine.
 
 #### Demonstrators
-The demonstrators for the practicals are [Sixtine Dromigny](https://www.environmental-research.ox.ac.uk/people/sixtine-dromigny) and [Zeynep Duygu Tekler](https://eng.ox.ac.uk/people/zeynep-duygu-tekler/).
+The demonstrators for the practicals are [Sixtine Dromigny](https://www.environmental-research.ox.ac.uk/people/sixtine-dromigny), [Ufuk Cakir](https://cakir-ufuk.de/), [Charlotte Wargniez](https://intelligent-earth.ox.ac.uk/people/charlotte-wargniez), and [Halil Kelebek](https://ori.ox.ac.uk/people/halil-kelebek).
 
-## Assessed assignment
+## Optional assessed assignment
 
-The course is assessed by a take-home assignment that needs to be submitted. See the assessed assignment directory for the instructions. **Deadline: 22 November 2024**
+There is an optional take-home assignment that that the students can complete to gain more experience. See the assessed assignment directory for the instructions. This is not a part of the course evaluation.
